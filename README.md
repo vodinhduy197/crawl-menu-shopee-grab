@@ -16,3 +16,8 @@ npm run start
 ```
 Node server.js
 ```
+
+## Usage
+```
+domain/get-menus?url=[link grab or link shoppe]
+```
